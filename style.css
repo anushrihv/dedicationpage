@@ -1,0 +1,36 @@
+body{
+  width:100%;
+  height:100%;
+  text-align: center;
+  background-color: black;
+}
+#first-division{
+  width:80%;
+  background-color: lightgrey;
+  padding-left:0;
+  margin:auto;
+ height:60%;
+ font-family: fantasy;
+}
+
+img{
+  width:50%;
+  height:30%;
+}
+a:hover{
+  color:red;
+  }
+a:visited{color:blue;}
+
+#content{
+  background-color:darkgrey;
+  width: 80%;
+  font-family: fantasy;
+
+margin:auto;
+  text-align: center;
+}
+
+#last-division{
+  color:white;
+}
